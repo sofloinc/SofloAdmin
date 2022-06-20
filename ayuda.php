@@ -11,7 +11,8 @@
 <title>Ayuda!!</title>
 </head>
 <body>
-
+  <p>Dado que nuestro sistema se encuentra en pleno desarrollo, la documentacion y la ayuda del mismo todavia se encuentra en el mismo proceso de desarrollo, agradecemos la colaboracion para este tipo de trabajo..
+  atte. Pugliese Nicolas</p>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
